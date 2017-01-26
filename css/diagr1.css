@@ -1,0 +1,35 @@
+#data-table {
+	display: none;
+}
+.bar span {
+	background: #fefefe url(../images/info-bg.gif) 0 100% repeat-x;
+}
+.fig0 {
+	background: #747474 url(../images/bar-01-bg.gif) 0 0 repeat-y;
+}
+.fig1 {
+	background: #65c2e8 url(../images/bar-02-bg.gif) 0 0 repeat-y;
+}
+.fig2 {
+	background: #eea151 url(../images/bar-03-bg.gif) 0 0 repeat-y;
+}
+
+.fig3 {
+	background: #A52A2A url(../images/bar-01-bg.gif) 0 0 repeat-y;
+}
+.fig4 {
+	background: #8A2BE2 url(../images/bar-02-bg.gif) 0 0 repeat-y;
+}
+.fig5 {
+	background: #FFD700 url(../images/bar-03-bg.gif) 0 0 repeat-y;
+}
+
+.fig6 {
+	background: #00008B url(../images/bar-01-bg.gif) 0 0 repeat-y;
+}
+.fig7 {
+	background: #006400 url(../images/bar-02-bg.gif) 0 0 repeat-y;
+}
+.fig8 {
+	background: #FF7F50 url(../images/bar-03-bg.gif) 0 0 repeat-y;
+}
